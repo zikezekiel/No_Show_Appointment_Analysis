@@ -26,4 +26,4 @@ From the analysis conducted, it is concluded that:
 - Older patients showed up for their appointments more.
 - Neighbourhoods were not a major factor in attendance since most patients in all neighbourhoods showed up for their appointments.
 - Scholarship and receiving SMS were of little significance for patients scheduling and attending their appointments.
-# No_Show_Appointment_Analysis
+
